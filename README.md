@@ -18,6 +18,13 @@ API来源：[知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPur
 6. UI Animation
 7. Objective-C Runtime特性
 
+# 项目演示
+
+![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily_Launch.gif) ![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily2_Home.gif)
+![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily3_Scrolling.gif) ![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily4_Article.gif)
+
+
+
 # 开发时长
 
 八天
