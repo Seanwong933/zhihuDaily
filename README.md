@@ -21,5 +21,5 @@ Blog: <a href="http://siegrain.wang/" target="_blank">Siegrain.Wang</a>
 
 # 项目演示
 
-![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily_Launch.gif) ![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily2_Home.gif)
-![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily3_Scrolling.gif) ![](http://siegrain.wang/_image/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/ZhihuDaily4_Article.gif)
+![](https://github.com/Seanwong933/zhihuDaily/blob/master/Gif/ZhihuDaily_Launch.gif?raw=true) ![](https://github.com/Seanwong933/zhihuDaily/blob/master/Gif/ZhihuDaily2_Home.gif?raw=true) 
+![](https://github.com/Seanwong933/zhihuDaily/blob/master/Gif/ZhihuDaily3_Scrolling.gif?raw=true) ![](https://github.com/Seanwong933/zhihuDaily/blob/master/Gif/ZhihuDaily4_Article.gif?raw=true)
