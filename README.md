@@ -7,7 +7,8 @@
 第一个iOS项目，轻拍...
 API来源：[知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 
-Blog: <a href="http://siegrain.wang/" target="_blank">Siegrain.Wang</a>
+项目详情可以看我的博客: <a href="http://siegrain.wang/post/zhi-hu-ri-bao-xiang-mu-zong-jie" target="_blank">《知乎日报》项目总结</a>
+有什么问题希望可以多多交流，顺便求个⭐️~
 
 # 所用技术
 
